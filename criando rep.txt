@@ -1,2 +1,3 @@
 Creating repository.
+Hi, my name is Lucas
 Hey, I'm adding more information to merge.
